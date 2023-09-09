@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0a0f0b&height=150&section=header&text=lkasjhdf&fontColor=abd200&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-####  😄 hellow 안녕하세요!
+####  😄 Hellow! 안녕하세요!
 
 <br/>
 <br/>
