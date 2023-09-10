@@ -6,6 +6,7 @@
 
 <a href="mailto:seojang980510@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:seojang980510@naver.com"/></a>
 <a href="mailto:seojang0510@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seojang0510@gmail.com"/></a>
+<a href="mailto:seojang0510@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 
 #
 
