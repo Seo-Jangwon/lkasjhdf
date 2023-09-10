@@ -2,14 +2,14 @@
   
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0a0f0b&height=150&section=header&text=lkasjhdf&fontColor=abd200&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-#### 👇contact to me👇
+#### 👇 contact to me 👇
 
 <a href="mailto:seojang980510@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:seojang980510@naver.com"/></a>
 <a href="mailto:seojang0510@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seojang0510@gmail.com"/></a>
 
 #
 
-####  👷: Once I've Used 
+####  👷 Once I've Used 👷
 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
