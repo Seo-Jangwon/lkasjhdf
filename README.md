@@ -2,19 +2,9 @@
   
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0a0f0b&height=150&section=header&text=lkasjhdf&fontColor=abd200&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-####  😄 Hellow! 안녕하세요!
-
-<br/>
-<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkasjhdf&show_icons=true&theme=merko)
-
-<br/>
 <br/>
 
 ####  👷: Once I've Used 
-  
-  
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
@@ -29,8 +19,11 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
   
+<br/>
+<br/>
+<br/>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkasjhdf&show_icons=true&theme=merko)
  
    <br/>
    <br/>
