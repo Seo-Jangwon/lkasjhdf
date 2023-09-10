@@ -11,12 +11,13 @@
 
 ####  👷 Once I've Used 👷
 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=Amazon aws&logoColor=white">
   <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat&logo=AWS Amplify&logoColor=white">
+  <img src="https://img.shields.io/badge/MATLAB-007396?style=flat&logo=&logoColor=white"/>
   
   <br/>
   
