@@ -32,6 +32,15 @@
 
    <br/>
    <br/>
+</div>
+   
+   # WORK EXPERIENCE
+
+   ## MDOC, Seoul, Republic of Korea (m-doc.io)
+
+* Intern
+* Develop a web app using REACT(JAVASCRIPT) & AWS AMPLIFY (SERVERLESS)
+   
 <!--
 **lkasjhdf/lkasjhdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,4 +55,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
+
