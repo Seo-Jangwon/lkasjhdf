@@ -31,8 +31,8 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkasjhdf&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkasjhdf&layout=donut&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkasjhdf&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkasjhdf&layout=donut&theme=tokyonight)
 
    <br/>
    <br/>
