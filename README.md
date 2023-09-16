@@ -40,7 +40,7 @@
    
    # WORK EXPERIENCE
 
-   ## MDOC, Seoul, Republic of Korea ([m-doc.io](m-doc.io))
+   ## MDOC, Seoul, Republic of Korea ([m-doc.io](https://m-doc.io/))
 
 * Intern (25/08/2021~31/01/2022)
 * Develop a web app using REACT(JAVASCRIPT) & AWS AMPLIFY (SERVERLESS)
