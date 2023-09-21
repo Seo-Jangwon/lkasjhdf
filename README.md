@@ -61,7 +61,7 @@
 
    ### Yonsei University, WonJu, Republic of Korea
 
-* Computer Science (02/2017~)
+* Major in Computer Science (02/2017~)
 
 </section>   
 <!--
