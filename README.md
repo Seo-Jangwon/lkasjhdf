@@ -40,15 +40,30 @@
 
    <br/>
    <br/>
+
 </div>
-   
+<section>
+
    # WORK EXPERIENCE
 
    ## MDOC, Seoul, Republic of Korea ([m-doc.io](https://m-doc.io/))
 
 * Intern (25/08/2021~31/01/2022)
 * Develop a web app using REACT(JAVASCRIPT) & AWS AMPLIFY (SERVERLESS)
+</section>
+
+   <br/>
+   <br/>
    
+<section>
+  
+  # EDUCATION
+
+   ## Yonsei University, WonJu, Republic of Korea
+
+* Computer Science (02/2017~)
+
+</section>   
 <!--
 **lkasjhdf/lkasjhdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
