@@ -42,7 +42,7 @@
    <br/>
 
 </div>
-<section>
+<section> 
 
    ## WORK EXPERIENCE
 
